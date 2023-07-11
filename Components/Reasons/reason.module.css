@@ -1,0 +1,31 @@
+.reason{
+    background: url('../../Images/bg2-.png');
+    height: auto;
+    background-color: #061E64;
+    padding: 2rem 0;
+}
+.headh1{
+    color: white;
+    font-size: 2.7rem;
+    font-weight: 500;
+}
+.headh4{
+    color: #8990A5;
+    font-size: 1.2rem;
+}
+.box{
+    padding: 53px 40px 49px 40px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: #122045;
+    height: 350px;
+    width: 95%;
+    margin: 10px;
+}
+.count{
+    color: #FFB454;
+    font-size: 1.5rem;
+}
+.text{
+    color: white;
+    font-size: 1.5rem;
+}

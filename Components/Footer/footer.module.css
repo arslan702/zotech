@@ -1,0 +1,41 @@
+.footer{
+    background-color: #071E57;
+    height: auto;
+}
+.links{
+    color: rgb(168, 163, 163);
+    padding-top: 2rem;
+    cursor: pointer;
+}
+.link:hover{
+    color: rgb(22, 77, 216);
+}
+.contact{
+    color: rgb(168, 163, 163);
+    padding-top: 2rem;
+    cursor: pointer;
+}
+.icons{
+    display: flex;
+}
+
+.icon{
+    margin:0 8px 0 0;
+}
+.icon:hover{
+    color: rgb(22, 77, 216); 
+}
+.name:hover{
+    color: rgb(22, 77, 216); 
+}
+.hr{
+border-bottom: 1px solid rgb(168, 163, 163);  
+}
+.foot{
+    color: rgb(168, 163, 163);
+
+}
+.img{
+    height: 100px;
+    width: 150px;
+}

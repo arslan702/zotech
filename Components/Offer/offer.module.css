@@ -1,0 +1,14 @@
+.img{
+    width:97%;
+    height: 500px;
+}
+.box{
+    display: flex;
+}
+.icon{
+    margin: 0 8px;
+    color: #7141B1;
+}
+.head{
+    color: #071E57;
+}

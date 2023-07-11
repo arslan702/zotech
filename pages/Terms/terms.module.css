@@ -1,0 +1,34 @@
+.termsImg{
+    background: url('../../Images/terms.jpg');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.termsImg::before{
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 1, 12, 0.3);
+}
+.termshead{
+    position: absolute;
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    z-index: 1;
+top: 40%;
+text-align: center;
+
+}
+.h1{
+    font-size: 1.7rem;
+    color: #071E57;
+}
+.h2{
+    color: rgb(114, 111, 111);
+}
