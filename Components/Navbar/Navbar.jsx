@@ -23,7 +23,7 @@ const Navbar = () => {
     <div className={styles.navbar} id='navbar'>
       <div className={styles.logo} id='logo'>
       {/* <Image src={logo} className={styles.img}  /> */}
-      <b>ZoTech</b>
+      <b>ZoTech by Ali Hassan</b>
       </div>
 
       <div className={styles.navcontainer}>
